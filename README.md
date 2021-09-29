@@ -107,7 +107,7 @@ that may or may not find backing in the economy and/or the population.
 ## Acknowledgments
 
 I'd like to thank several people for influential discussions here, but I
-don't know whether they want to be listed here by name. If you are one of
+don't know whether they want to be listed by name. If you are one of
 them and do not mind being publicly credited, please just let me know.
 
 ## License
